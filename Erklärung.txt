@@ -1,0 +1,11 @@
+Projekt Rundenzeit
+
+Felix Schliephake:4452023
+Hendrik Wolf:4459102
+
+Beschreibung: Spieler geben ihren Namen ein und wählen ihr Team in einer Python-Benutzeroberfläche 
+und können danach per Startknopf das Rennen starten. 
+Es wird ein Signal drathlos an den Arduino versendet, wodurch danach mit einer Ampelschaltung das Rennen beginnt. 
+Anschließend können die Spieler auf einer Carrerabahn gegeneinander fahren. 
+4 Abstandsmesser nehmen dann die Zeit und Geschwindkeit der Autos auf und diese werden dann drahtlos wieder an Pyhton geschickt und 
+in der Benutzeroberfläche als Tabelle angezeigt.
